@@ -4,12 +4,11 @@
 
 ## About
 
-DevOps engineer who spends the day keeping other people's systems running smoothly, and the night building my own from scratch. My homelab is basically a second job: bare-metal + cloud Kubernetes clusters, GitOps pipelines, and whatever new tool gives me an excuse to learn something.
+DevOps engineer who spends the day keeping other people's systems running smoothly, and the night building my own from scratch. My homelab is basically a second job: bare-metal Kubernetes clusters, GitOps pipelines, and whatever new tool gives me an excuse to learn something.
 
 **Currently exploring:**
-- 🏠 A hybrid homelab — k3s across bare metal and Hetzner Cloud
+- 🏠 Homelab — running k3s across bare-metal nodes
 - 🤖 AI engineering — agentic workflows and LLM tooling
-- 🛠️ Infra-as-code with Pulumi and custom Kubernetes operators
 - ⚡ Automating anything that repeats more than twice
 
 ## GitHub Stats
