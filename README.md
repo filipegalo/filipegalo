@@ -11,6 +11,16 @@ DevOps engineer who spends the day keeping other people's systems running smooth
 - 🤖 AI engineering — agentic workflows and LLM tooling
 - ⚡ Automating anything that repeats more than twice
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipegalo/filipegalo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipegalo/filipegalo/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/filipegalo/filipegalo/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ## GitHub Stats
 
 <p align="center">
