@@ -24,8 +24,8 @@ DevOps engineer who spends the day keeping other people's systems running smooth
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=filipegalo&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Filipe's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipegalo&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="Filipe's GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
