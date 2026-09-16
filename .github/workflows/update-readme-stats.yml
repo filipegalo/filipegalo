@@ -32,6 +32,13 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
 
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=dracula&hide_border=true&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"

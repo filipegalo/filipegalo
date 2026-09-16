@@ -29,7 +29,7 @@ DevOps engineer who spends the day keeping other people's systems running smooth
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=filipegalo&theme=dracula&hide_border=true" alt="GitHub streak" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
 ## Let's connect
