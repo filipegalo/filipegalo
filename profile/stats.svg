@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Filipe Galo&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 1396, Total PRs: 109, Total Issues: 4, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 1407, Total PRs: 111, Total Issues: 4, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 123.53475282670271;
+        stroke-dashoffset: 123.12937025079906;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >109</text>
+      >111</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
